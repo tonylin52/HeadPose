@@ -25,4 +25,4 @@ cd bin
 ![Head position capture](https://media.giphy.com/media/ExwHHHAEutTI4/giphy.gif)
 ![Webcam to Unity results](https://media.giphy.com/media/9IY8svzV8z8T6/giphy.gif)
 
-@*joaopbarbosa EyeMocap* 2017
+@*joaopbarbosa HeadPose* 2017
