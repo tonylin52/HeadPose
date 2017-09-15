@@ -19,7 +19,7 @@ cd bin
 
 >Document with all information about the project [HeadPose paper](https://google.pt).
 
-###### EyeMocap DEMO.video.youtube:
+###### HeadPose DEMO.video.youtube:
 
 >HeadPose gif's demonstrating without art quality on the 3d model low poly head.
 ![Head position capture](https://media.giphy.com/media/ExwHHHAEutTI4/giphy.gif)
