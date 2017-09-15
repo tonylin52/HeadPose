@@ -1,4 +1,4 @@
-# HeadPose
+# HeadPose ###### v1
 *Head position capture.*
 
 ###### How to compile the code:
