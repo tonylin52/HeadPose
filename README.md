@@ -22,7 +22,9 @@ cd bin
 ###### HeadPose DEMO.video.youtube:
 
 >HeadPose gif's demonstrating without art quality on the 3d model low poly head.
-![Head position capture](https://media.giphy.com/media/ExwHHHAEutTI4/giphy.gif)
+![Head position capture](https://media.giphy.com/media/11djhu7w6b1iX6/giphy.gif)
 ![Webcam to Unity results](https://media.giphy.com/media/9DHcwPITiMhag/giphy.gif)
+
+>[*Full Youtube Video*](https://youtu.be/odKT3rLdcOg)
 
 @*joaopbarbosa HeadPose* 2017
