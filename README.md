@@ -1,7 +1,7 @@
 # HeadPose
 *Head position capture.*
 
->>(This is a test made as student of computer vision, using some famous algorithms)
+>(This is a test made as student of computer vision, using some famous algorithms)
 
 ###### How to compile the code:
 
