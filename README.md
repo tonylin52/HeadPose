@@ -1,6 +1,8 @@
 # HeadPose
 *Head position capture.*
 
+>>(This is a test made as student of computer vision, using some famous algorithms)
+
 ###### How to compile the code:
 
 ```
@@ -14,10 +16,6 @@ cd bin
 ```
 
 >Copy the file *libHeadPose.so* in folder *headpose/build/bin* to the Unity project folder *headpose/headpose/Assets/Plugins*. Then, open the unity3d and the project *headpose/headpose*.
-
-###### HeadPose PAPER.document.pdf:
-
->Document with all information about the project [HeadPose paper](https://google.pt).
 
 ###### HeadPose DEMO.video.youtube:
 
